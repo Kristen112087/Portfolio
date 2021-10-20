@@ -3,7 +3,7 @@
     font-size: 100px;
     padding: 10px;
     text-align: center;
-    text-shadow: 8px 8px 12px rgb(224, 79, 127);
+    text-shadow: 8px 8px 12px rgb(255, 0, 85);
 }
 body{
     padding: 15px;
@@ -13,23 +13,24 @@ body{
     font-size: 100px;
     padding: 10px;
     text-align: center;
-    text-shadow: 8px 8px 12px rgb(224, 79, 127);
+    text-shadow: 8px 8px 12px rgb(255, 0, 85);
 }
 .title{
     font-family: "Syncopate", sans-serif;
     font-size: 100px;
     padding: 10px;
     text-align: center;
-    text-shadow: 8px 8px 12px rgb(224, 79, 127);
+    text-shadow: 8px 8px 12px rgb(255, 0, 85);
 }
 p{
     font-family: "Syncopate", sans-serif;
     text-align: center;
-    color: rgb(224, 79, 127);
+    color: rgb(255, 0, 85);
 }
 .buttons{
     font-family: "Syncopate", sans-serif;
-    color: rgb(224, 79, 127);
+    color: rgb(255, 0, 85);
+
 }
 .icons{
     width: 45px;
@@ -46,10 +47,10 @@ p{
     color: rgb(224, 79, 127);
 }
 .btn-outline-dark{
-    background-color: palevioletred !important;
-    color: pink !important;
+    background-color: rgb(255, 184, 208) !important;
+    color: rgb(255, 0, 43) !important;
 }
 .btn-outline-dark:hover{
-    background-color: pink !important;
-    color: palevioletred !important;
+    background-color: rgb(255, 0, 85) !important;
+    color: rgb(255, 184, 208)  !important;
 }
