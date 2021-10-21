@@ -1,6 +1,6 @@
 .name{
     font-family: "Syncopate", sans-serif;
-    font-size: 65px;
+    font-size: xx-large;
     padding: 10px;
     text-align: center;
     text-shadow: 8px 8px 12px rgb(255, 0, 85);
@@ -11,14 +11,14 @@ body{
 }
 .Projects{
     font-family: "Syncopate", sans-serif;
-    font-size: 100px;
+    font-size: xx-large;
     padding: 10px;
     text-align: center;
     text-shadow: 8px 8px 12px rgb(255, 0, 85);
 }
 .title{
     font-family: "Syncopate", sans-serif;
-    font-size: 100px;
+    font-size: xx-large;
     padding: 10px;
     text-align: center;
     text-shadow: 8px 8px 12px rgb(255, 0, 85);
