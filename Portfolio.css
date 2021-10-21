@@ -18,7 +18,7 @@ body{
 }
 .title{
     font-family: "Syncopate", sans-serif;
-    font-size: xx-large;
+    font-size: 100px;
     padding: 10px;
     text-align: center;
     text-shadow: 8px 8px 12px rgb(255, 0, 85);
@@ -60,5 +60,20 @@ img{
     opacity: .75;
 }
 .avatar1{
+    text-align: center;
+}
+.gunnar{
+    text-align: center;
+}
+.LaceyMolly{
+    text-align: center;
+}
+.car{
+    text-align: center;
+}
+.pete{
+    text-align: center;
+}
+.computer{
     text-align: center;
 }
